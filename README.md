@@ -2,7 +2,9 @@
 
 This repository contains a basic counter application built with React and Redux Toolkit. It demonstrates the core concepts of Redux Toolkit, including `createSlice` for defining reducers and actions, and how to use `useSelector` and `useDispatch` hooks in React components.
 
+
 ## Table of Contents
+
 
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
